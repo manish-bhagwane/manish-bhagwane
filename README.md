@@ -12,11 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=manish-bhagwane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-bhagwane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manish-bhagwane&limit=5&theme=dark&combine_all_yearly_contributions=true)
